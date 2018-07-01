@@ -1,16 +1,11 @@
-# Heroku Deploy for Wiki.js
+# IBM Cloud Foundry - Deploy for Wiki.js
 
-This repo is an Heroku app definition for Wiki.js.  
+This repo is an IBM Cloud Foundry app definition for Wiki.js.
+
 For information about Wiki.js, including detailed installation steps, read the following links:
 
 - [Official Website](https://wiki.js.org/)
 - [Installation Guide](https://wiki.js.org/get-started.html)
 - [GitHub Repository](https://github.com/Requarks/wiki)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/requarks/wiki-heroku)
-
-If you want to modify the configuration beyond what's available through environment variables, then:
-* Clone this repo
-* Make and commit your configuration changes
-* `git remote add heroku https://git.heroku.com/my-wiki.git`
-* `git push heroku`, or if you are on a branch, `git push heroku mybranch:master`
+<a href="https://console.bluemix.net/devops/setup/deploy?repository=https://github.com/seafre/wiki-ibm-master" rel="Deploy to IBM Cloud Foundry"><img src="https://console.bluemix.net/devops/setup/deploy/button.svg" alt="Deploy to IBM Cloud Foundry" width="250"/></a>

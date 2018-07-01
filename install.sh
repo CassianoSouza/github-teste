@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "============================="
-echo "WIKI.JS - HEROKU INSTALLATION"
+echo "WIKI.JS - IBM Cloud Foundry installation"
 echo "============================="
 
 VERSION=$(curl -L -s -S https://beta.requarks.io/api/version/stable)
