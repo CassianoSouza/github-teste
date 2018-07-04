@@ -22,7 +22,7 @@ template:
     - wikijs-repo
   info:
     git url: >-
-      [wiki-ibm-master](https://github.com/seafre/wiki-ibm-cloud-foundry)
+      [wiki-ibm-cloud-foundry](https://github.com/seafre/wiki-ibm-cloud-foundry)
     git branch: >-
       [master](https://github.com/seafre/wiki-ibm-cloud-foundry/tree/master)
 
